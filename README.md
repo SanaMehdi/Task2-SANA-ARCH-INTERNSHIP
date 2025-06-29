@@ -1,6 +1,6 @@
 # Task2-SANA-ARCH-INTERNSHIP
 
-# 🧠 Task 7.2: End-to-End Machine Learning Project
+# 🧠 Task 2: End-to-End Machine Learning Project
 
 This repository contains my implementation of Task 7.2 from the ARCH TECHNOLOGIES INTERNSHIP Program. The task is based on Chapters 1 and 2 of the book **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron.
 
